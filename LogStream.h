@@ -11,7 +11,6 @@
 #include <string>
 #include "LogBuffer.h"
 #include <functional>
-//class LogBuffer;TOdo:how to declare
 class LogStream{
 public:
     ~LogStream();
